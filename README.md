@@ -1,6 +1,17 @@
 # Bank webpage template
 
-Template of a modern bank website.
+Template for a modern bank website. Including sections such as services offered by the bank website, customer testimonies, resources, and others.
+Template created with the React library and TailwindCSS library.
+
+## Screenshots
+
+* Main view
+
+![alt text](./screenshots/header.jpg)
+
+* Testimonies
+
+![alt text](./screenshots/body-2.jpg)
 
 ## Technologies used in this project
 
